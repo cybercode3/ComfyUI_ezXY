@@ -1,6 +1,6 @@
 # ezXY
 
-# Does not work with current version of Comfyui
+# I got this to work with ComfyUI v0.7 for a project I was working on. I have not tested it much because I only needed it for that one project. Still, it might be useful to someone else.
 
 ### A collection of scripts and custom nodes for [ComfyUI](https://github.com/comfyanonymous/ComfyUI).
 
