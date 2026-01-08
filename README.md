@@ -13,7 +13,7 @@
 ## Installation
 Clone the repository to `custom_nodes` in your ComfyUI directory:
 ```
-git clone https://github.com/GMapeSplat/ComfyUI_ezXY.git
+git clone https://github.com/cybercode3/ComfyUI_ezXY.git
 ```
 
 ## Scripts
